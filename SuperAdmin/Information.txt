@@ -1,0 +1,1 @@
+﻿Bu yerda project Run bo'lganda paydo bo'ladigan SuperAdmin bo'lishi kerak
