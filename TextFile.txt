@@ -1,0 +1,21 @@
+﻿O'zinga Branch ochgandan keyin 
+
+git add .
+git commit -m "Yangi branchda o'zgarishlar"
+
+git push origin yangi-branch
+
+git push --set-upstream origin yangi-branch
+
+shu kodlarni powershelda yoz keyin esa
+
+git status
+
+kodini yana powershelda yoz
+
+On branch davronn
+Your branch is up to date with 'origin/davronn'.
+
+nothing to commit, working tree clean
+
+Shunga o'xshash narsa chiqsa to'g'ri bo'lgan bo'ladi.

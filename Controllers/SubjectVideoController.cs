@@ -5,7 +5,7 @@ namespace MyEducatin.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class SubjectVideo : ControllerBase
+    public class SubjectVideoController : ControllerBase
     {
 
     }
