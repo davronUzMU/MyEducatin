@@ -42,6 +42,10 @@ namespace MyEducatin
 
             app.MapControllers();
 
+            app.UseStaticFiles();
+            app.MapFallbackToFile("index.html"); // React uchun fallback
+
+
             app.Run();
         }
     }
